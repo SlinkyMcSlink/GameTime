@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1016708937647",
+    "firebase_url": "https://gametime-3f411.firebaseio.com",
+    "project_id": "gametime-3f411",
+    "storage_bucket": "gametime-3f411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016708937647:android:d8da43a609f9ed09",
+        "android_client_info": {
+          "package_name": "com.example.gametime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016708937647-3mc5rk3hnac5mq3e6mnopnvejq2o11bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gametime",
+            "certificate_hash": "fd030a346e1da951e0fa7918bccdb6d3a487ec87"
+          }
+        },
+        {
+          "client_id": "1016708937647-vmdabbbc8a26rgpkbf3hstq892cf28lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4B1D7N12RO7z3AdzD7A3fjOYhbUtNCO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016708937647-vmdabbbc8a26rgpkbf3hstq892cf28lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
